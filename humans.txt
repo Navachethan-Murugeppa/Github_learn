@@ -4,6 +4,7 @@ we are good humans
 # humanstxt.org/
 # The humans responsible & technology colophon
 
+human is a social being
 # TEAM
 
     <name> -- <role> -- <twitter>
