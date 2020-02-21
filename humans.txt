@@ -6,6 +6,7 @@ we are good humans
 
 human is a social being
 # TEAM hi hello
+team information
 
     <name> -- <role> -- <twitter>
 
