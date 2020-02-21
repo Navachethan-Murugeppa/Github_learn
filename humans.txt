@@ -11,6 +11,7 @@ team information
     <name> -- <role> -- <twitter>
 
 # THANKS
+abc@gmail.com
 
     <name>
 
