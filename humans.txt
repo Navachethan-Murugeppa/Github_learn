@@ -5,7 +5,7 @@ we are good humans
 # The humans responsible & technology colophon
 
 human is a social being
-# TEAM
+# TEAM hi hello
 
     <name> -- <role> -- <twitter>
 
